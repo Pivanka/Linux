@@ -3,11 +3,6 @@
 
 ---
 
-<p align="center">
-<img src="https://wiki.cuspu.edu.ua/images/6/6a/Linux.jpg"></p>
-
----
-
 ## Умова завдання 
 
 ---
@@ -20,5 +15,17 @@
 
 ---
 
+###Результат 
+
+---
+
+***Виконання bash-скрипта***
+
+---
+
+<img src="https://i.imgur.com/KHeOtMC.png"></p>
+
+---
+
 <p align="center">
-<img src="https://cdn.wallpapersafari.com/19/59/ltupBF.gif"></p>
+<img src="https://wiki.cuspu.edu.ua/images/6/6a/Linux.jpg"></p>
