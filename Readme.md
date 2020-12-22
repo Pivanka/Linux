@@ -1,7 +1,7 @@
 <h1 align="center">Залік з операційних систем</h1>
 <h2 align="center">
 
-## Умова завдання 
+<img src="https://forum.gamecoast.net/uploads/monthly_2019_07/tuxel.gif.6c8e3d3ce18af3dbf29146519c2cbead.gif"></p>
 
 ***Варіант №7***
 
@@ -11,12 +11,10 @@
 
 ---
 
-##Результат 
-
-***Виконання bash-скрипта***
+## Результат виконання bash-скрипта
 
 ---
-
+***Скріншот виконаної роботи***
 <img src="https://i.imgur.com/KHeOtMC.png"></p>
 
 <p align="center">
