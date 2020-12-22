@@ -16,4 +16,4 @@
 <img src="https://i.imgur.com/iqZ51Ao.png"></p>
 
 <p align="center">
-<img src="https://wiki.cuspu.edu.ua/images/6/6a/Linux.jpg"></p>
+<img src="https://i.imgur.com/cxwZndf.png"></p>
