@@ -1,12 +1,18 @@
 <h1 align="center">Залік з операційних систем</h1>
 <h2 align="center">
 
+---
+
 <p align="center">
-<img src="https://phoneky.co.uk/thumbs/screensavers/down/logo-brands/ubuntu_h3yny6ci.gif"></p>
+<img src="https://wiki.cuspu.edu.ua/images/6/6a/Linux.jpg"></p>
+
+---
 
 ## Умова завдання 
 
-**Варіант №7**
+---
+
+***Варіант №7***
 
 ---
 
