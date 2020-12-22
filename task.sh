@@ -1,4 +1,6 @@
 #!/bin/bash
+#Загрузить файл с веб сервера і показать його останні 11 рядків
+
 if [ $# -eq 0 ] 
    then 
       echo "No URL arguments supplied."
