@@ -5,14 +5,18 @@
 
 ***Варіант №6***
 -----------------------------------
-Загрузить файл с веб сервера і показать його останні 11 рядків (наприклад https://raw.githubusercontent.com/xpams/UIView-Blur/master/README.md)
+Написати bash-скрипт, який скачає файл с веб сервера і показує його останні 11 рядків (наприклад https://raw.githubusercontent.com/xpams/UIView-Blur/master/README.md)
 
 ---
 
 ***Результат виконання bash-скрипта***
------------------------------------
-***Скріншот виконаної роботи***
+
+---
+
+***Знімки екрана виконаної роботи***
+***у терміналі***
 <img src="https://i.imgur.com/8RhGF9h.png"></p>
+***у у файлі***
 <img src="https://i.imgur.com/iqZ51Ao.png"></p>
 
 <p align="center">
